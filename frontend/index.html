@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Rodomax Hub</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- ============================= -->
+    <!-- MENU LATERAL -->
+    <!-- ============================= -->
+
+    <aside class="sidebar">
+
+        <div class="logo">
+
+            <div class="logo-icon">
+                R
+            </div>
+
+            <div>
+                <h1>RODOMAX</h1>
+                <span>HUB</span>
+            </div>
+
+        </div>
+
+
+        <nav>
+
+            <button class="menu-item active" data-section="dashboard">
+                <span>▦</span>
+                Dashboard
+            </button>
+
+            <button class="menu-item" data-section="demandas">
+                <span>▤</span>
+                Demandas
+            </button>
+
+            <button class="menu-item" data-section="fontes">
+                <span>⇄</span>
+                Fontes
+            </button>
+
+            <button class="menu-item" data-section="historico">
+                <span>◷</span>
+                Histórico
+            </button>
+
+        </nav>
+
+
+        <div class="sidebar-bottom">
+
+            <div class="sistema-status">
+
+                <span class="status-dot"></span>
+
+                <div>
+
+                    <strong>
+                        Sistema online
+                    </strong>
+
+                    <small>
+                        PostgreSQL conectado
+                    </small>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </aside>
+
+
+    <!-- ============================= -->
+    <!-- CONTEÚDO PRINCIPAL -->
+    <!-- ============================= -->
+
+    <main class="main">
+
+
+        <!-- HEADER -->
+
+        <header class="topbar">
+
+            <div>
+
+                <span class="top-label">
+                    RODOMAX HUB
+                </span>
+
+                <h2 id="tituloPagina">
+                    Dashboard
+                </h2>
+
+            </div>
+
+        </header>
+
+
+        <!-- ============================= -->
+        <!-- DASHBOARD -->
+        <!-- ============================= -->
+
+        <section id="dashboard" class="section active">
+
+            <div class="welcome">
+
+                <div>
+
+                    <span class="section-label">
+                        VISÃO GERAL
+                    </span>
+
+                    <h2>
+                        Central de demandas
+                    </h2>
+
+                    <p>
+                        Dados integrados de diferentes fontes
+                        em um único lugar.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <!-- CARDS -->
+
+            <div class="cards">
+
+                <div class="card">
+
+                    <div class="card-icon">
+                        #
+                    </div>
+
+                    <div>
+
+                        <span>
+                            Total de demandas
+                        </span>
+
+                        <strong id="totalDemandas">
+                            17
+                        </strong>
+
+                        <small>
+                            Registros processados
+                        </small>
+
+                    </div>
+
+                </div>
+
+
+                <div class="card">
+
+                    <div class="card-icon">
+                        ✓
+                    </div>
+
+                    <div>
+
+                        <span>
+                            Integradas
+                        </span>
+
+                        <strong id="demandasIntegradas">
+                            17
+                        </strong>
+
+                        <small>
+                            Processamento concluído
+                        </small>
+
+                    </div>
+
+                </div>
+
+
+                <div class="card">
+
+                    <div class="card-icon">
+                        R$
+                    </div>
+
+                    <div>
+
+                        <span>
+                            Valor dos fretes
+                        </span>
+
+                        <strong id="valorTotal">
+                            R$ 30.750,50
+                        </strong>
+
+                        <small>
+                            Valor total processado
+                        </small>
+
+                    </div>
+
+                </div>
+
+
+                <div class="card">
+
+                    <div class="card-icon">
+                        ⇄
+                    </div>
+
+                    <div>
+
+                        <span>
+                            Fontes
+                        </span>
+
+                        <strong>
+                            3
+                        </strong>
+
+                        <small>
+                            CSV, JSON e XLSX
+                        </small>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- FONTES -->
+
+            <div class="source-section">
+
+                <div class="section-title">
+
+                    <div>
+
+                        <span class="section-label">
+                            INTEGRAÇÃO
+                        </span>
+
+                        <h3>
+                            Fontes de dados
+                        </h3>
+
+                    </div>
+
+                </div>
+
+
+                <div class="source-cards">
+
+                    <div class="source-card">
+
+                        <div class="source-icon">
+                            CSV
+                        </div>
+
+                        <div>
+
+                            <strong>
+                                Arquivo CSV
+                            </strong>
+
+                            <span>
+                                7 registros
+                            </span>
+
+                        </div>
+
+                        <div class="source-status">
+                            Integrado
+                        </div>
+
+                    </div>
+
+
+                    <div class="source-card">
+
+                        <div class="source-icon">
+                            JSON
+                        </div>
+
+                        <div>
+
+                            <strong>
+                                Arquivo JSON
+                            </strong>
+
+                            <span>
+                                2 registros
+                            </span>
+
+                        </div>
+
+                        <div class="source-status">
+                            Integrado
+                        </div>
+
+                    </div>
+
+
+                    <div class="source-card">
+
+                        <div class="source-icon">
+                            XLSX
+                        </div>
+
+                        <div>
+
+                            <strong>
+                                Planilha Excel
+                            </strong>
+
+                            <span>
+                                8 registros
+                            </span>
+
+                        </div>
+
+                        <div class="source-status">
+                            Integrado
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- DEMANDAS RECENTES -->
+
+            <div class="demandas-box">
+
+                <div class="box-header">
+
+                    <div>
+
+                        <span class="section-label">
+                            DADOS INTEGRADOS
+                        </span>
+
+                        <h3>
+                            Demandas recentes
+                        </h3>
+
+                    </div>
+
+                </div>
+
+
+                <div class="table-container">
+
+                    <table>
+
+                        <thead>
+
+                            <tr>
+
+                                <th>CLIENTE</th>
+                                <th>ORIGEM</th>
+                                <th>DESTINO</th>
+                                <th>VALOR DO FRETE</th>
+                                <th>FONTE</th>
+                                <th>STATUS</th>
+
+                            </tr>
+
+                        </thead>
+
+                        <tbody id="tabelaDemandas"></tbody>
+
+                    </table>
+
+                </div>
+
+
+                <div class="table-footer">
+
+                    <p id="contadorDemandas">
+                        Exibindo 5 de 17 demandas
+                    </p>
+
+                    <button
+                        id="btnVerTodas"
+                        class="btn-ver-todas"
+                    >
+                        Ver todas as demandas →
+                    </button>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ============================= -->
+        <!-- DEMANDAS -->
+        <!-- ============================= -->
+
+        <section id="demandas" class="section">
+
+            <div class="page-header">
+
+                <div>
+
+                    <span class="section-label">
+                        GERENCIAMENTO
+                    </span>
+
+                    <h2>
+                        Todas as demandas
+                    </h2>
+
+                    <p>
+                        Visualização completa das demandas integradas.
+                    </p>
+
+                </div>
+
+
+                <button
+                    class="btn-primary"
+                    id="btnNovaDemanda3"
+                >
+                    + Nova demanda
+                </button>
+
+            </div>
+
+
+            <div class="demandas-box">
+
+                <div class="table-container">
+
+                    <table>
+
+                        <thead>
+
+                            <tr>
+
+                                <th>CLIENTE</th>
+                                <th>ORIGEM</th>
+                                <th>DESTINO</th>
+                                <th>VALOR DO FRETE</th>
+                                <th>FONTE</th>
+                                <th>STATUS</th>
+
+                            </tr>
+
+                        </thead>
+
+                        <tbody id="tabelaTodasDemandas"></tbody>
+
+                    </table>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ============================= -->
+        <!-- FONTES -->
+        <!-- ============================= -->
+
+        <section id="fontes" class="section">
+
+            <div class="page-header">
+
+                <div>
+
+                    <span class="section-label">
+                        INTEGRAÇÃO
+                    </span>
+
+                    <h2>
+                        Fontes de dados
+                    </h2>
+
+                    <p>
+                        Arquivos utilizados pelo Rodomax Hub.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <div class="source-large-grid">
+
+                <div class="source-large-card">
+
+                    <div class="source-large-icon">
+                        CSV
+                    </div>
+
+                    <h3>
+                        Arquivo CSV
+                    </h3>
+
+                    <p>
+                        Demandas recebidas através de arquivos CSV.
+                    </p>
+
+                    <strong>
+                        7 registros
+                    </strong>
+
+                    <span class="badge-status">
+                        Integrado
+                    </span>
+
+                </div>
+
+
+                <div class="source-large-card">
+
+                    <div class="source-large-icon">
+                        JSON
+                    </div>
+
+                    <h3>
+                        Arquivo JSON
+                    </h3>
+
+                    <p>
+                        Demandas recebidas através de arquivos JSON.
+                    </p>
+
+                    <strong>
+                        2 registros
+                    </strong>
+
+                    <span class="badge-status">
+                        Integrado
+                    </span>
+
+                </div>
+
+
+                <div class="source-large-card">
+
+                    <div class="source-large-icon">
+                        XLSX
+                    </div>
+
+                    <h3>
+                        Planilha Excel
+                    </h3>
+
+                    <p>
+                        Demandas recebidas através de planilhas Excel.
+                    </p>
+
+                    <strong>
+                        8 registros
+                    </strong>
+
+                    <span class="badge-status">
+                        Integrado
+                    </span>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ============================= -->
+        <!-- HISTÓRICO -->
+        <!-- ============================= -->
+
+        <section id="historico" class="section">
+
+            <div class="page-header">
+
+                <div>
+
+                    <span class="section-label">
+                        AUDITORIA
+                    </span>
+
+                    <h2>
+                        Histórico de importações
+                    </h2>
+
+                    <p>
+                        Histórico dos processamentos realizados pelo sistema.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <div class="demandas-box" id="listaHistorico"></div>
+        </section>
+
+    </main>
+
+
+    <!-- ============================= -->
+    <!-- MODAL NOVA DEMANDA -->
+    <!-- ============================= -->
+
+    <div
+        id="modalNovaDemanda"
+        class="modal"
+    >
+
+        <div class="modal-content">
+
+
+            <div class="modal-header">
+
+                <div>
+
+                    <span class="section-label">
+                        CADASTRO
+                    </span>
+
+                    <h2>
+                        Nova demanda
+                    </h2>
+
+                </div>
+
+
+                <button
+                    id="btnFecharModal"
+                    class="btn-close"
+                >
+                    ×
+                </button>
+
+            </div>
+
+
+            <!-- ============================= -->
+            <!-- FORMULÁRIO -->
+            <!-- ============================= -->
+
+            <form id="formDemanda">
+
+
+                <!-- CLIENTE -->
+
+                <div class="form-group">
+
+                    <label for="cliente">
+                        Cliente
+                    </label>
+
+                    <input
+                        type="text"
+                        id="cliente"
+                        placeholder="Nome da empresa"
+                        required
+                    >
+
+                </div>
+
+
+                <!-- FONTE -->
+
+                <div class="form-group">
+
+                    <label for="fonte">
+                        Fonte da demanda
+                    </label>
+
+                    <select
+                        id="fonte"
+                        required
+                    >
+
+                        <option value="">
+                            Selecione a fonte
+                        </option>
+
+                        <option value="CSV">
+                            CSV
+                        </option>
+
+                        <option value="JSON">
+                            JSON
+                        </option>
+
+                        <option value="XLSX">
+                            XLSX
+                        </option>
+
+                    </select>
+
+                </div>
+
+
+                <!-- ORIGEM / DESTINO -->
+
+                <div class="form-row">
+
+
+                    <div class="form-group">
+
+                        <label for="origem">
+                            Origem
+                        </label>
+
+                        <input
+                            type="text"
+                            id="origem"
+                            placeholder="Cidade de origem"
+                            required
+                        >
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label for="destino">
+                            Destino
+                        </label>
+
+                        <input
+                            type="text"
+                            id="destino"
+                            placeholder="Cidade de destino"
+                            required
+                        >
+
+                    </div>
+
+                </div>
+
+
+                <!-- VALOR -->
+
+                <div class="form-group">
+
+                    <label for="valor">
+                        Valor do frete
+                    </label>
+
+                    <input
+                        type="number"
+                        id="valor"
+                        placeholder="0,00"
+                        step="0.01"
+                        min="0"
+                        required
+                    >
+
+                </div>
+
+
+                <!-- BOTÕES -->
+
+                <div class="modal-actions">
+
+                    <button
+                        type="button"
+                        id="btnCancelar"
+                        class="btn-secondary"
+                    >
+                        Cancelar
+                    </button>
+
+
+                    <button
+                        type="submit"
+                        class="btn-primary"
+                    >
+                        Adicionar demanda
+                    </button>
+
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+
+
+    <!-- JAVASCRIPT -->
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
