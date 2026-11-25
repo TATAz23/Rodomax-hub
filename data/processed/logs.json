@@ -1,0 +1,352 @@
+[
+    {
+        "data_hora": "11/09/2026 21:15:44",
+        "arquivos_processados": 3,
+        "registros_recebidos": 22,
+        "registros_incompletos": 1,
+        "duplicados_removidos": 4,
+        "registros_finais": 17,
+        "registros_inseridos": 0,
+        "registros_ignorados": 17
+    },
+    {
+        "data_hora": "11/09/2026 21:21:03",
+        "arquivos_processados": 3,
+        "registros_recebidos": 22,
+        "registros_incompletos": 1,
+        "duplicados_removidos": 4,
+        "registros_finais": 17,
+        "registros_inseridos": 17,
+        "registros_ignorados": 0
+    },
+    {
+        "data_hora": "11/09/2026 21:25:20",
+        "arquivos_processados": 3,
+        "registros_recebidos": 22,
+        "registros_incompletos": 1,
+        "duplicados_removidos": 4,
+        "registros_finais": 17,
+        "registros_inseridos": 17,
+        "registros_ignorados": 0
+    },
+    {
+        "data_hora": "11/09/2026 21:39:12",
+        "arquivos_processados": 3,
+        "registros_recebidos": 17,
+        "registros_incompletos": 7,
+        "duplicados_removidos": 0,
+        "registros_finais": 10,
+        "registros_inseridos": 10,
+        "registros_ignorados": 0
+    },
+    {
+        "data_hora": "11/09/2026 21:41:35",
+        "arquivos_processados": 3,
+        "registros_recebidos": 17,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 0,
+        "registros_finais": 17,
+        "registros_inseridos": 17,
+        "registros_ignorados": 0
+    },
+    {
+        "data_hora": "11/09/2026 21:43:42",
+        "arquivos_processados": 3,
+        "registros_recebidos": 17,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 0,
+        "registros_finais": 17,
+        "registros_inseridos": 17,
+        "registros_ignorados": 0
+    },
+    {
+        "data_hora": "11/09/2026 22:02:26",
+        "arquivos_processados": 3,
+        "registros_recebidos": 17,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 0,
+        "registros_finais": 17,
+        "registros_inseridos": 17,
+        "registros_ignorados": 0
+    },
+    {
+        "data_hora": "14/09/2026 19:40:06",
+        "arquivos_processados": 3,
+        "registros_recebidos": 17,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 0,
+        "registros_finais": 17,
+        "registros_inseridos": 17,
+        "registros_ignorados": 0
+    },
+    {
+        "data_hora": "15/09/2026 22:04:55",
+        "arquivos_processados": 3,
+        "registros_recebidos": 17,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 0,
+        "registros_finais": 17,
+        "registros_inseridos": 17,
+        "registros_ignorados": 0
+    },
+    {
+        "data_hora": "15/09/2026 22:13:02",
+        "arquivos_processados": 3,
+        "registros_recebidos": 17,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 0,
+        "registros_finais": 17,
+        "registros_inseridos": 17,
+        "registros_ignorados": 0
+    },
+    {
+        "data_hora": "15/09/2026 22:13:20",
+        "arquivos_processados": 3,
+        "registros_recebidos": 17,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 0,
+        "registros_finais": 17,
+        "registros_inseridos": 0,
+        "registros_ignorados": 17
+    },
+    {
+        "data_hora": "15/09/2026 22:20:12",
+        "arquivos_processados": 3,
+        "registros_recebidos": 17,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 0,
+        "registros_finais": 17,
+        "registros_inseridos": 0,
+        "registros_ignorados": 17
+    },
+    {
+        "data_hora": "15/09/2026 22:24:37",
+        "arquivos_processados": 3,
+        "registros_recebidos": 19,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 2,
+        "registros_finais": 17,
+        "registros_inseridos": 17,
+        "registros_ignorados": 0
+    },
+    {
+        "data_hora": "15/09/2026 22:28:30",
+        "arquivos_processados": 3,
+        "registros_recebidos": 19,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 2,
+        "registros_finais": 17,
+        "registros_inseridos": 0,
+        "registros_ignorados": 17
+    },
+    {
+        "data_hora": "16/09/2026 19:41:33",
+        "arquivos_processados": 3,
+        "registros_recebidos": 19,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 2,
+        "registros_finais": 17,
+        "registros_inseridos": 0,
+        "registros_ignorados": 17
+    },
+    {
+        "data_hora": "16/09/2026 19:44:57",
+        "arquivos_processados": 3,
+        "registros_recebidos": 19,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 2,
+        "registros_finais": 17,
+        "registros_inseridos": 0,
+        "registros_ignorados": 17
+    },
+    {
+        "data_hora": "16/09/2026 21:09:31",
+        "arquivos_processados": 3,
+        "registros_recebidos": 19,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 2,
+        "registros_finais": 17,
+        "registros_inseridos": 0,
+        "registros_ignorados": 17
+    },
+    {
+        "data_hora": "16/09/2026 21:18:37",
+        "arquivos_processados": 3,
+        "registros_recebidos": 19,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 2,
+        "registros_finais": 17,
+        "registros_inseridos": 0,
+        "registros_ignorados": 17
+    },
+    {
+        "data_hora": "16/09/2026 21:19:09",
+        "arquivos_processados": 3,
+        "registros_recebidos": 19,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 2,
+        "registros_finais": 17,
+        "registros_inseridos": 0,
+        "registros_ignorados": 17
+    },
+    {
+        "data_hora": "16/09/2026 21:32:04",
+        "arquivos_processados": 3,
+        "registros_recebidos": 19,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 2,
+        "registros_finais": 17,
+        "registros_inseridos": 0,
+        "registros_ignorados": 17
+    },
+    {
+        "data_hora": "16/11/2026 20:26:35",
+        "arquivos_processados": 3,
+        "registros_recebidos": 19,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 2,
+        "registros_finais": 17,
+        "registros_inseridos": 0,
+        "registros_ignorados": 17
+    },
+    {
+        "data_hora": "16/11/2026 20:38:53",
+        "arquivos_processados": 3,
+        "registros_recebidos": 19,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 2,
+        "registros_finais": 17,
+        "registros_inseridos": 0,
+        "registros_ignorados": 17
+    },
+    {
+        "data_hora": "16/11/2026 20:49:15",
+        "arquivos_processados": 3,
+        "registros_recebidos": 19,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 2,
+        "registros_finais": 17,
+        "registros_inseridos": 0,
+        "registros_ignorados": 17
+    },
+    {
+        "data_hora": "16/11/2026 20:50:57",
+        "arquivos_processados": 3,
+        "registros_recebidos": 19,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 2,
+        "registros_finais": 17,
+        "registros_inseridos": 0,
+        "registros_ignorados": 17
+    },
+    {
+        "data_hora": "16/11/2026 21:14:49",
+        "arquivos_processados": 3,
+        "registros_recebidos": 19,
+        "registros_incompletos": 0,
+        "duplicados_removidos": 2,
+        "registros_finais": 17,
+        "registros_inseridos": 0,
+        "registros_ignorados": 17
+    },
+    {
+        "data_hora": "17/11/2026 23:12:31",
+        "arquivos_processados": 3,
+        "registros_recebidos": 200,
+        "registros_incompletos": 5,
+        "duplicados_removidos": 0,
+        "registros_finais": 195,
+        "registros_inseridos": 0,
+        "registros_ignorados": 0
+    },
+    {
+        "data_hora": "17/11/2026 23:22:09",
+        "arquivos_processados": 3,
+        "registros_recebidos": 200,
+        "registros_incompletos": 5,
+        "duplicados_removidos": 0,
+        "registros_finais": 188,
+        "registros_inseridos": 188,
+        "registros_ignorados": 0
+    },
+    {
+        "data_hora": "21/11/2026 10:36:21",
+        "arquivos_processados": 3,
+        "registros_recebidos": 200,
+        "registros_incompletos": 5,
+        "duplicados_removidos": 0,
+        "registros_finais": 188,
+        "registros_inseridos": 0,
+        "registros_ignorados": 188
+    },
+    {
+        "data_hora": "21/11/2026 10:38:51",
+        "arquivos_processados": 3,
+        "registros_recebidos": 201,
+        "registros_incompletos": 5,
+        "duplicados_removidos": 1,
+        "registros_finais": 188,
+        "registros_inseridos": 0,
+        "registros_ignorados": 188
+    },
+    {
+        "data_hora": "21/11/2026 10:40:40",
+        "arquivos_processados": 3,
+        "registros_recebidos": 201,
+        "registros_incompletos": 5,
+        "duplicados_removidos": 1,
+        "registros_finais": 188,
+        "registros_inseridos": 0,
+        "registros_ignorados": 188
+    },
+    {
+        "data_hora": "21/11/2026 10:43:39",
+        "arquivos_processados": 3,
+        "registros_recebidos": 201,
+        "registros_incompletos": 5,
+        "duplicados_removidos": 1,
+        "registros_finais": 188,
+        "registros_inseridos": 0,
+        "registros_ignorados": 188
+    },
+    {
+        "data_hora": "21/11/2026 10:47:27",
+        "arquivos_processados": 3,
+        "registros_recebidos": 201,
+        "registros_incompletos": 5,
+        "duplicados_removidos": 21,
+        "registros_finais": 168,
+        "registros_inseridos": 0,
+        "registros_ignorados": 168
+    },
+    {
+        "data_hora": "21/11/2026 11:09:58",
+        "arquivos_processados": 3,
+        "registros_recebidos": 201,
+        "registros_incompletos": 5,
+        "duplicados_removidos": 21,
+        "registros_finais": 168,
+        "registros_inseridos": 0,
+        "registros_ignorados": 168
+    },
+    {
+        "data_hora": "21/11/2026 11:38:34",
+        "arquivos_processados": 3,
+        "registros_recebidos": 201,
+        "registros_incompletos": 5,
+        "duplicados_removidos": 21,
+        "registros_finais": 168,
+        "registros_inseridos": 0,
+        "registros_ignorados": 168
+    },
+    {
+        "data_hora": "21/11/2026 11:46:47",
+        "arquivos_processados": 3,
+        "registros_recebidos": 201,
+        "registros_incompletos": 5,
+        "duplicados_removidos": 21,
+        "registros_finais": 168,
+        "registros_inseridos": 168,
+        "registros_ignorados": 0
+    }
+]

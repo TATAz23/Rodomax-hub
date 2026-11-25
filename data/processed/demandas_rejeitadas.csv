@@ -1,0 +1,8 @@
+﻿cliente,email,telefone,origem,destino,valor_frete,fonte,email_invalido,telefone_invalido,motivo_rejeicao
+TRANS RIO PARANÁ,fretes10@transrioparaná.com.br,45939349722,LONDRINA,UMUARAMA,-1423.27,CSV,False,False,frete deve ser maior que zero
+LOGÍSTICA VALE VERDE,fretes11@logísticavalev.com.br,45909335534,PATO BRANCO,PARANAGUÁ,0,CSV,False,False,frete deve ser maior que zero
+FASTROUTE LOGÍSTICA,fretes12@fastroutelogís.com.br,45931244663,PONTA GROSSA,CURITIBA,mil reais,CSV,False,False,frete inválido
+TRANS RIO PARANÁ,fretes13@transrioparaná.com.br,45985320121,UMUARAMA,GUARAPUAVA,mil reais,CSV,False,False,frete inválido
+TRANS RIO PARANÁ,fretes22@transrioparaná.com.br,45918566572,PARANAGUÁ,MARINGÁ,-736.76,CSV,False,False,frete deve ser maior que zero
+EXPRESSO OESTE CARGAS,fretes23@expressooestec.com.br,45914716857,CURITIBA,JOINVILLE,mil reais,CSV,False,False,frete inválido
+BRASIL CARGAS,fretes30@brasilcargas.com.br,45943507489,CASCAVEL,PONTA GROSSA,0,CSV,False,False,frete deve ser maior que zero

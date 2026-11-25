@@ -1,0 +1,5 @@
+﻿cliente,email,telefone,origem,destino,valor_frete,fonte,email_invalido,telefone_invalido,classificacao_ia,score_ia,motivo_ia
+GRUPO VIACERTA,fretes14@grupoviacerta.com.br,45928119557,PARANAGUÁ,FOZ DO IGUAÇU,85000.0,CSV,False,False,REVISAR,0.2743044006998032,"valor muito acima da mediana (R$ 2,923.89)"
+EXPRESSO OESTE CARGAS,fretes15@expressooestec.com.br,45997861742,FOZ DO IGUAÇU,UMUARAMA,25.0,CSV,False,False,REVISAR,0.33950414633983506,"valor muito abaixo da mediana (R$ 2,923.89)"
+GRUPO VIACERTA,fretes24@grupoviacerta.com.br,45908526544,JOINVILLE,PONTA GROSSA,85000.0,CSV,False,False,REVISAR,0.2743044006998032,"valor muito acima da mediana (R$ 2,923.89)"
+CARGAS UNIÃO,fretes61@cargasunião.com.br,45909736572,CHAPECÓ,FOZ DO IGUAÇU,497.04,CSV,False,False,REVISAR,0.18394734422399406,"valor muito abaixo da mediana (R$ 2,923.89)"
